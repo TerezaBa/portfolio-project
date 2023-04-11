@@ -63,3 +63,23 @@ h1 {
 .project-description h3 {
   font-size: 50px;
 }
+
+@media (max-width: 900px) {
+  .project-description {
+    text-align: center;
+    padding: 50px;
+  }
+
+  h1 {
+    font-size: 64px;
+  }
+
+  .hero h2,
+  h3 {
+    font-size: 20px;
+  }
+
+  .hero {
+    padding: 60px 20px;
+  }
+}
