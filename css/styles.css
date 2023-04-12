@@ -83,16 +83,16 @@ h1 {
     padding: 60px 20px;
   }
 
-  .about-section {
+  .content-container {
     text-align: center;
   }
 }
 
-.about-section {
+.content-container {
   padding: 120px 20px;
 }
 
-.about-section-content {
+.content {
   margin: 30px;
 }
 
@@ -100,11 +100,11 @@ h1 {
   width: 450px;
 }
 
-.about-section h1 {
+.content-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
 
-.about-section h4 {
+.content-container h4 {
   opacity: 0.7;
 }
