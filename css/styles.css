@@ -86,6 +86,10 @@ h1 {
   .content-container {
     text-align: center;
   }
+
+  .content h1 {
+    font-size: 40px;
+  }
 }
 
 .content-container {
