@@ -21,7 +21,7 @@ h1 {
 .hero {
   text-align: center;
   background: var(--hero-color);
-  padding: 160px 20px;
+  padding: 120px 20px;
 }
 
 .btn-branding {
@@ -70,7 +70,7 @@ h1 {
     padding: 50px;
   }
 
-  h1 {
+  .hero h1 {
     font-size: 64px;
   }
 
@@ -82,4 +82,29 @@ h1 {
   .hero {
     padding: 60px 20px;
   }
+
+  .about-section {
+    text-align: center;
+  }
+}
+
+.about-section {
+  padding: 120px 20px;
+}
+
+.about-section-content {
+  margin: 30px;
+}
+
+.about-pic {
+  width: 450px;
+}
+
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+
+.about-section h4 {
+  opacity: 0.7;
 }
