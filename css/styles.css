@@ -134,7 +134,7 @@ h1 {
 }
 
 .contact-box {
-  padding: 30px 60px;
+  padding: 30px 60px 15px 60px;
   background-color: var(--hero-color);
   margin: 30px 240px;
 }
