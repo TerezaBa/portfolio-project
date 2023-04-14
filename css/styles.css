@@ -138,3 +138,28 @@ h1 {
   background-color: var(--hero-color);
   margin: 30px 240px;
 }
+
+.contact-mail {
+  font-size: 28px;
+  text-decoration: none;
+  color: black;
+}
+
+.contact-mail:hover {
+  color: var(--accent-color);
+}
+
+i {
+  font-size: 28px;
+  margin-top: 10px;
+  padding: 10px 20px;
+  color: black;
+}
+
+i:hover {
+  color: var(--accent-color);
+}
+
+footer {
+  margin: 60px 0;
+}
